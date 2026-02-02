@@ -23,4 +23,8 @@ The objective of this project is to develop a Digital Art Gallery and Auction Pl
 - Auction (AuctionID [PK], ArtworkID [FK], StartDate, EndDate, ReservePrice, CurrentHighestBid)
 - Bid (BidID [PK], AuctionID [FK], UserID [FK], BidAmount, BidTime)
 - Transactions (TransactionID [PK], UserID [FK], ArtworkID [FK], PaymentMethod, AmountPaid, TransactionDate)
+- <img width="908" height="634" alt="image" src="https://github.com/user-attachments/assets/f7434228-79d9-48e3-925a-0920e55fcb03" />
+<img width="902" height="894" alt="image" src="https://github.com/user-attachments/assets/b80a08d5-9bdd-4b4c-85c5-a61e7530f313" />
+<img width="883" height="521" alt="image" src="https://github.com/user-attachments/assets/271bf853-f9ec-4ab2-abb1-7b7895ff2d5b" />
+
 
